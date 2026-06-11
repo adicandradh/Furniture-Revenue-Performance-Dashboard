@@ -36,7 +36,7 @@ Fokus utama dari project ini adalah mengolah data transaksi penjualan menjadi in
 - Exploratory Data Analysis (EDA)
 - Data transformation
 - Data visualization & dashboard design
-* Business analysis
+- Business analysis
 ## 🖼️ Preview
 <img width="2500" height="3020" alt="Furniture Revenue Performance Dashboard" src="https://github.com/user-attachments/assets/fea0ed5e-5721-43f0-a5d0-66a4ac02c7bc" />
 
