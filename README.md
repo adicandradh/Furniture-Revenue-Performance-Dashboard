@@ -38,6 +38,8 @@ Fokus utama dari project ini adalah mengolah data transaksi penjualan menjadi in
 - Data visualization & dashboard design
 - Business analysis
 ## 🖼️ Preview
+Berikut dashboard interaktif yang dapat dieksplorasi secara langsung melalui Google Looker Studio:
+https://datastudio.google.com/reporting/9fe179b1-4b4c-4d37-b875-3994a01af7d6
 <img width="2500" height="3020" alt="Furniture Revenue Performance Dashboard" src="https://github.com/user-attachments/assets/fea0ed5e-5721-43f0-a5d0-66a4ac02c7bc" />
 
 ## 📊 Dashboard Highlights
