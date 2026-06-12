@@ -12,7 +12,6 @@ Fokus utama dari project ini adalah mengolah data transaksi penjualan menjadi in
 - Menganalisis performa kategori produk
 - Mengevaluasi distribusi status pesanan
 - Memantau perilaku pelanggan melalui metrik transaksi
-- Menyediakan dashboard interaktif untuk kebutuhan monitoring bisnis
 ## ⚙️ Data Processing
 - Data cleaning untuk memastikan kualitas data
 - Penanganan missing values dan duplicate records
