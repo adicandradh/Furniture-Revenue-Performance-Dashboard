@@ -18,7 +18,7 @@ Fokus utama dari project ini adalah mengolah data transaksi penjualan menjadi in
 - Exploratory Data Analysis (EDA)
 - Pembuatan calculated fields
 - Agregasi data menggunakan SQL
-- Data transformation menggunakan Python (Pandas)
+- Transformasi data menggunakan Python
 ## 🧠 Business Logic
 - Total Revenue dihitung dari akumulasi seluruh nilai transaksi penjualan
 - Average Order Value (AOV) dihitung dari Total Revenue dibagi Total Orders
