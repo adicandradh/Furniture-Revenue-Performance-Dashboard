@@ -39,7 +39,7 @@ Fokus utama dari project ini adalah mengolah data transaksi penjualan menjadi in
 ## 🖼️ Preview
 Berikut dashboard interaktif yang dapat dieksplorasi secara langsung melalui Google Looker Studio:
 https://datastudio.google.com/reporting/9fe179b1-4b4c-4d37-b875-3994a01af7d6
-<img width="2500" height="3020" alt="Furniture Revenue Performance Dashboard" src="https://github.com/user-attachments/assets/fea0ed5e-5721-43f0-a5d0-66a4ac02c7bc" />
+<img width="2500" height="3126" alt="Furniture Revenue Performance" src="https://github.com/user-attachments/assets/868f90cf-ef8e-47ba-a495-f850667aae1b" />
 
 ## 📊 Insights
 - Bisnis menghasilkan total revenue Rp53,03 miliar dari 10.000 transaksi dengan Average Order Value sebesar Rp5,30 juta dan completion rate 89,7%, menunjukkan performa penjualan yang kuat dengan tingkat penyelesaian pesanan yang tinggi.
