@@ -41,7 +41,7 @@ Berikut dashboard interaktif yang dapat dieksplorasi secara langsung melalui Goo
 https://datastudio.google.com/reporting/9fe179b1-4b4c-4d37-b875-3994a01af7d6
 <img width="2500" height="3020" alt="Furniture Revenue Performance Dashboard" src="https://github.com/user-attachments/assets/fea0ed5e-5721-43f0-a5d0-66a4ac02c7bc" />
 
-## 📊 Dashboard Highlights
+## 📊 Insights
 - Bisnis menghasilkan total revenue Rp53,03 miliar dari 10.000 transaksi dengan Average Order Value sebesar Rp5,30 juta dan completion rate 89,7%, menunjukkan performa penjualan yang kuat dengan tingkat penyelesaian pesanan yang tinggi.
 - Revenue bulanan relatif stabil sepanjang tahun dengan rentang sekitar Rp3,98–Rp4,78 miliar. Revenue tertinggi terjadi pada Juli 2025 sebesar Rp4,78 miliar, sementara terendah terjadi pada November 2025 sebesar Rp3,98 miliar.
 - Sebagian besar transaksi berhasil diselesaikan dengan status completed sebesar 89,7% (8.972 order), sedangkan cancelled sebesar 5,2% (519 order) dan refund sebesar 5,1% (509 order), menunjukkan performa operasional yang cukup baik.
